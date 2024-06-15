@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title:  "Pirmas postas"
 date:   2024-06-14 14:12:16 +0300
 ---
